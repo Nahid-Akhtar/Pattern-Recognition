@@ -4,4 +4,4 @@ The code has some limitation like it is only able to understand or detect one pa
 
 Note:
 You can add any file with some list of elements in the 'Input' Folder for testing.
-I tested on zipcode, iban, billing amount and date.
+I tested this on zipcode, iban, billing amount and date.
